@@ -1,0 +1,7 @@
+{
+  "name": "collected-skills",
+  "version": "0.1.0",
+  "description": "开源收集的常用 AI skill 集合（各 skill 保留原作者许可，见各自 ATTRIBUTION.md）",
+  "author": { "name": "zhili.deng" },
+  "homepage": "https://github.com/zhili.deng/awesome-skills"
+}

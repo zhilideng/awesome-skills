@@ -1,0 +1,8 @@
+{
+  "name": "my-skills",
+  "version": "0.1.0",
+  "description": "个人总结的 AI agent skill 集合",
+  "author": { "name": "zhili.deng" },
+  "license": "MIT",
+  "homepage": "https://github.com/zhili.deng/awesome-skills"
+}

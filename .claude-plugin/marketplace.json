@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "awesome-skills",
+  "owner": { "name": "zhili.deng" },
+  "plugins": [
+    {
+      "name": "my-skills",
+      "source": "./plugins/my-skills",
+      "description": "个人日常/学习/项目实战总结的 AI skill"
+    },
+    {
+      "name": "collected-skills",
+      "source": "./plugins/collected-skills",
+      "description": "开源收集的常用 AI skill（各保留原作者许可）"
+    }
+  ]
+}
